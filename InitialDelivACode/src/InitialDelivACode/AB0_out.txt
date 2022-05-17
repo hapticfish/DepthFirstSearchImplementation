@@ -1,0 +1,17 @@
+Edge from Alfa to Bravo labeled >
+Edge from Alfa to Delta labeled 99
+Edge from Alfa to Echo labeled fig
+Edge from Bravo to Alfa labeled 999
+Edge from Bravo to Bravo labeled -42
+Edge from Bravo to Charlie labeled 3
+Edge from Bravo to Delta labeled x
+Edge from Bravo to Echo labeled ==
+Edge from Charlie to Bravo labeled 4
+Edge from Charlie to Delta labeled yz
+Edge from Charlie to Echo labeled 9
+Edge from Delta to Alfa labeled 3
+Edge from Delta to Bravo labeled 22
+Edge from Delta to Charlie labeled x
+Edge from Delta to Echo labeled !=2
+Edge from Echo to Delta labeled d>e
+Edge from Echo to Echo labeled 33

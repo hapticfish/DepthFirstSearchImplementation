@@ -1,0 +1,22 @@
+Node Alfa Start Time is 1 Finish time is 2
+Node Bravo Start Time is 3 Finish time is 4
+Node Charlie Start Time is 5 Finish time is 6
+Node Delta Start Time is 7 Finish time is 8
+Node Echo Start Time is 9 Finish time is 10
+Edge AAA - BB is type C
+Edge AAA - DDD is type C
+Edge AAA - E is type C
+Edge BB - AAA is type F
+Edge BB - BB is type B
+Edge BB - C is type C
+Edge BB - DDD is type C
+Edge BB - E is type C
+Edge C - BB is type F
+Edge C - DDD is type C
+Edge C - E is type C
+Edge DDD - AAA is type F
+Edge DDD - BB is type F
+Edge DDD - C is type F
+Edge DDD - E is type C
+Edge E - DDD is type F
+Edge E - E is type B
